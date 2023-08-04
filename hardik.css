@@ -35,6 +35,6 @@ header{
        box-shadow: var(--box-shadow);
 }
 nav{
-       height: 50px;
+       height: 100px;
        color: black;
 }
