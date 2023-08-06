@@ -58,7 +58,7 @@ header .navbar a:hover{
        color: #fff;
        background-color: var(--green);
 }
-header .icons a,{
+header .icons a{
        cursor: pointer;
        margin-left: .5rem;
        height: 4.45rem;
