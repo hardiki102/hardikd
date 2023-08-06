@@ -75,6 +75,10 @@ header .icons a:hover{
        background: var(--green);
        transform: rotate(360deg);
 }
+header .icons #menu-bars{
+       display: none;
+}
+
 
 
 
