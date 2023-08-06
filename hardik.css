@@ -57,7 +57,18 @@ header .navbar a:active,
 header .navbar a:hover{
        color: #fff;
        background-color: var(--green);
-
+}
+header .icons a,{
+       cursor: pointer;
+       margin-left: .5rem;
+       height: 4.45rem;
+       line-height: 4.5rem;
+       width:4.5rem;
+       text-align: center;
+       font-size: 1.7rem;
+       color:var(--black);
+       border-radius: 50%;
+       background: #eee;
 }
 
 
