@@ -102,6 +102,7 @@ header .icons #menu-bars{
               top: 100%; left: 0; right: 0;
               background: #fff;
               border-top: 1rem solid rgba(0,0,0,.2);
+              border-left: 1rem solid rgba(0,0,0,.2);
               padding: 1rem;
        }
        header .navbar a{
