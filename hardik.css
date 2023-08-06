@@ -70,6 +70,10 @@ header .icons a{
        border-radius: 50%;
        background: #eee;
 }
+header .icons a:hover{
+       color: #fff;
+       transform: rotate(360deg);
+}
 
 
 
